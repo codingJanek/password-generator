@@ -85,13 +85,19 @@ You can use a text editor or IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code) to r
 
 ## Example Usage
 
-Gebe die Länge des Passworts an: 12 X@k7#2wMbz8H
+Gebe die Länge des Passworts an: 12 
+
+X@k7#2wMbz8H
 
 Möchtest du noch ein Passwort generieren? (ja/nein): ja
 
-Gebe die Länge des Passworts an: 8 D4!b&9rQ
+Gebe die Länge des Passworts an: 8 
 
-Möchtest du noch ein Passwort generieren? (ja/nein): nein Programm beendet!
+D4!b&9rQ
+
+Möchtest du noch ein Passwort generieren? (ja/nein): nein 
+
+Programm beendet!
 
 
 ## Notes
